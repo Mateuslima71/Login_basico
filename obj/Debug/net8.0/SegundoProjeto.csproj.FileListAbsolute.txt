@@ -1,0 +1,14 @@
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll

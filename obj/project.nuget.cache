@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rn9Tk82fKED6G3Gjv3hUqCZMZEvCpcPLuhN8qkTSVetuJSBNhK4xCcpKec1IJSsrjzEhubCXzDm5fAHWJEusDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mlima\\Estudo C#\\aulas Ubemy\\Projetos\\B_SegundoProjeto\\SegundoProjeto\\SegundoProjeto\\SegundoProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mlima\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\mlima\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\mlima\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
