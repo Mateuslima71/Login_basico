@@ -12,3 +12,4 @@ C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\Se
 C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
 C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
 C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll
+C:\Users\mlima\Estudo C#\aulas Ubemy\Projetos\B_SegundoProjeto\SegundoProjeto\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.sourcelink.json

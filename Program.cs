@@ -1,6 +1,6 @@
-﻿//Sistema de login basico
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 class Program
 {
@@ -34,42 +34,49 @@ class Program
         Console.ReadLine();
     }
 
+    static bool validacao(string senha)
+    {
+        bool temmaiusc = senha.Any(char.IsUpper);
+        bool temminusc = senha.Any(char.IsLower);
+        return temmaiusc && temminusc;
+    }
+
     static bool CriarNovoUsuario()
     {
         Console.Write("Digite um nome de usuário para criar: ");
         string novoUsuario = Console.ReadLine();
 
-
-        if (usuarios.ContainsKey(novoUsuario))
-        {
-            Console.WriteLine("Erro: O nome de usuário já existe. Escolha outro nome de usuário.");
-            return false;
-        }
-        Console.Write("Digite uma senha para o novo usuário: ");
-        string senha = Console.ReadLine();
-
         while (true)
         {
-            
-            Console.Write("Confirme sua senha: ");
-            string senhaConfirm = Console.ReadLine();
-
-
-            if (senha == senhaConfirm)
+            if (usuarios.ContainsKey(novoUsuario))
             {
-                usuarios.Add(novoUsuario, senha);
+                Console.WriteLine("Erro: O nome de usuário já existe. Escolha outro nome de usuário.");
+                return false;
+            }
 
-                return true;
+            Console.Write("Digite uma senha para o novo usuário: ");
+            string senha = Console.ReadLine();
 
-
+            if (!validacao(senha))
+            {
+                Console.WriteLine("Erro: A senha não atende aos requisitos. A senha deve conter pelo menos uma letra maiúscula e uma letra minúscula.");
             }
             else
             {
-                Console.WriteLine("As senhas precisam ser iguais!");
+                Console.Write("Confirme sua senha: ");
+                string senhaConfirm = Console.ReadLine();
+
+                if (senha == senhaConfirm)
+                {
+                    usuarios.Add(novoUsuario, senha);
+                    return true;
+                }
+                else
+                {
+                    Console.WriteLine("As senhas precisam ser iguais!");
+                }
             }
         }
-        
-
     }
 
     static bool FazerLogin()
@@ -80,9 +87,9 @@ class Program
         Console.Write("Digite sua senha: ");
         string senha = Console.ReadLine();
 
-
         if (usuarios.ContainsKey(nomeUsuario) && usuarios[nomeUsuario] == senha)
         {
+            
             return true;
         }
 
